@@ -15,10 +15,7 @@ import cn.itcast.shop.product.vo.Product;
 import cn.itcast.shop.utils.PageHibernateCallback;
 
 /**
- * 商品持久层的代码
- * 
- * @author 传智.郭嘉
- * 
+ * 商品持久层的代码 
  */
 public class ProductDao extends HibernateDaoSupport {
 
